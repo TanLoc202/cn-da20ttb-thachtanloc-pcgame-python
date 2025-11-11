@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Đề tài: Phát triển trò chơi PC với Python
 
 **Giang viên hướng dân: Trần Văn Nam**
@@ -19,3 +20,7 @@ Phiên bản pỵthon được dung trong đề tài này là Python 3.13.6. Lin
 ```bash
 pip install pygame==2.6.1
 ```
+=======
+#Đề tài: Phát triển trò chơi PC với Python
+
+>>>>>>> e2658fc07cfb4dab9fb2a1545f00e1ffaa852cd7
