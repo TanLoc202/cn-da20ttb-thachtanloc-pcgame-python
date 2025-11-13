@@ -14,14 +14,14 @@
 ## Chi tiết công việc sẽ thực hiện trong tuần
 
 
-| STT | Công việc                                                   | Trạng thái          | Ghi chú                     |
+| STT | Công việc | Trạng thái | Ghi chú |
 | --- | ------------------------------------------------------------- | --------------------- | ---------------------------- |
-| 1   | Viết báo cáo phần tóm tắt                               | **Đã hoàn thành** | -                            |
-| 2   | Viết báo cáo phần mở đầu                               | Chưa hoàn thành    | -                            |
-| 3   | Viết báo cáo chương 1                                    | Chưa hoàn thành    | -                            |
-| 4   | Cài đặt python, thư viện pygame                          | **Đã hoàn thành** | python 3.13.6 / pygame 2.6.1 |
-| 5   | Lập kịch bản ý tưởng cho trò chơi                     | Chưa hoàn thành    | -                            |
-| 6   | Thiết lập cửa sổ hiện thị, tiêu đề và kích thước | Chưa hoàn thành    | -                            |
-| 7   | Báo cáo tiến độ với GVHD                                | Chưa hoàn thành    | -                            |
+| 1   | Viết báo cáo phần tóm tắt | **Đã hoàn thành**  | - |
+| 2   | Viết báo cáo phần mở đầu  | **Đã hoàn thành**  | - |
+| 3   | Viết báo cáo chương 1 | Chưa hoàn thành | - |
+| 4   | Cài đặt python, thư viện pygame | **Đã hoàn thành** | python 3.13.6 / pygame 2.6.1 |
+| 5   | Lập kịch bản ý tưởng cho trò chơi | Chưa hoàn thành | - |
+| 6   | Thiết lập cửa sổ hiện thị, tiêu đề và kích thước | Chưa hoàn thành | - |
+| 7   | Báo cáo tiến độ với GVHD | Chưa hoàn thành | - |
 
-**Cập nhật lần cuối:** 12/11/2025
+**Cập nhật lần cuối:** 14/11/2025
